@@ -27,9 +27,9 @@ Its architecture is entirely **modular, event-driven, and trust-layered**, makin
 
 
 
-PLAN 
-That’s a great plan — and a realistic one 👍
-You can absolutely develop the **Cognitive Loop Agent (CLA)** using **Google Colab**, **GitHub Codespaces**, and your **local computer** — all on free tiers, if you structure things smartly.
+### PLAN
+
+developing the **Cognitive Loop Agent (CLA)** using **Google Colab**, **GitHub Codespaces**, and your **local computer** — all on free tiers.
 
 Let’s break it into a **step-by-step zero-cost development workflow** for your experience level.
 
@@ -167,15 +167,3 @@ Free Codespaces handles all backend load; Colab just sends/receives events.
 5. ✅ Local Action Router
 6. ⏩ Integration tests (Redis end-to-end)
 7. ⏩ Optional: mobile control via Telegram bot
-
----
-
-## 🧭 Next step (choose one)
-
-I can now generate for you one of the following, fully runnable:
-
-1. **Codespaces setup guide + Docker Compose** (Redis + FastAPI Governance)
-2. **Colab notebook** for the Perception → Reasoning → Memory pipeline
-3. **Local Agent script** that executes approved actions from Redis
-
-Which do you want me to create first?
